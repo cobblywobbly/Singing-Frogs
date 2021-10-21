@@ -125,7 +125,7 @@ function draw() {
 
 textSize(10);
     textAlign(CENTER);
-    fill(188, 180, 171);
+    fill(116, 126, 128);
 
     text('CLICK FROGS TO CONDUCT', 300, 350);
 
