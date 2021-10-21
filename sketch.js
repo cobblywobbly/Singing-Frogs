@@ -123,9 +123,11 @@ function setup() {
 function draw() {
     background(255, 255, 255);
 
+textSize(10);
+    textAlign(CENTER);
+    fill(188, 180, 171);
 
-    //if a sprite is mouseActive true I can check if the mouse is over its collider
-    //and if the button is pressed
+    text('CLICK FROGS TO CONDUCT', 300, 350);
 
 
     drawSprites();
